@@ -6,7 +6,7 @@ Program kalkulator ini melibatkan operasi hitung sederhana, seperti:
 3. Perkalian
 4. Pembagian
 
-Pembagian Kolab
+Pembagian kolab:
 1. Dayson M S_2506644974
 - Membuat fungsi penjumlahan, pengurangan, perkalian, dan pembagian.
 
