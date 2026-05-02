@@ -7,7 +7,7 @@ Program kalkulator ini melibatkan operasi hitung sederhana, seperti:
 4. Pembagian
 
 Pembagian Kolab
-1. Dayson Marshal S.
+1. Dayson M S_2506644974
 - Membuat fungsi penjumlahan, pengurangan, perkalian, dan pembagian.
 
 2. Anandita M D_2506620186
