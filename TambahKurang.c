@@ -1,16 +1,16 @@
 #include <stdio.h>
 
-float add(float a, float b) {
+float add(int a, int b) {
     return a + b;
 }
 
-float sub(float a, float b) {
+float sub(int a, int b) {
     return a - b;
 }
 
 int main() {
-    int pilihan;
-    float a, b, hasil;
+    int pilihan, a, b;
+    float hasil;
 
     printf("Kalkulator\n");
     printf("1. Penambahan\n");
